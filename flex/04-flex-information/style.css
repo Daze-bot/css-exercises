@@ -17,6 +17,7 @@ img {
 .info {
   display: flex;
   gap: 52px;
+  justify-content: center;
 }
 
 .first,
@@ -26,7 +27,8 @@ img {
   display: flex;
   flex-direction: column;
   align-items: center;
-  flex-wrap: wrap;
+  width: 200px;
+  text-align: center;
 }
 
 /* do not edit this footer */
